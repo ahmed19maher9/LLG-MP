@@ -8,7 +8,7 @@
 
  <!-- [![Build Status](https://travis-ci.org/emk/subtitles-rs.svg?branch=master)](https://travis-ci.org/emk/subtitles-rs) [![Build status](https://ci.appveyor.com/api/projects/status/3hn8cwckcdhpcasm/branch/master?svg=true)](https://ci.appveyor.comproject/emk/subtitles-rs/branch/master) -->
 
-![alt tag]([https://i.imgur.com/kDqOC8w.png](https://i.ibb.co/Y4qCsgyh/llg-logo.png))
+![alt tag](https://i.imgur.com/kDqOC8w.png)
 ______________________________________________________________________________________________________________________________
 ## what is LLG Media Player ? 
 
